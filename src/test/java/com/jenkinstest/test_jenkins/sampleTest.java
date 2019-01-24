@@ -14,4 +14,11 @@ public class sampleTest
 		int a=1, b=2;
 		assertTrue(a + b == 3);
 	}
+	
+	@Test
+	public void exaTest()
+	{
+		int a=1, b=2 ;
+		assertTrue(a * b == 3);
+	}
 }
